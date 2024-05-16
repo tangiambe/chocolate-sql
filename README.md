@@ -1,4 +1,4 @@
-# Online Chocolate Shop Management System Documentation
+# Chocolate Shop Management System Documentation
 
 ## Database Schema
 
